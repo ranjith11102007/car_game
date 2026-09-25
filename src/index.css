@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    touch-action: none;
+    -webkit-touch-callout: none;
+    user-select: none;
+  }
+}
+
+.font-speedo {
+  font-family: 'Chakra Petch', monospace, sans-serif;
+  font-variant-numeric: tabular-nums;
+}
